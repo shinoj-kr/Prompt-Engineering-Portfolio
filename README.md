@@ -1,7 +1,7 @@
 # Prompt Engineering Portfolio
-Name: [Your Name]
+Name: Shinoj K R
 Date: [Submission Date]
-LLM Used: [e.g., ChatGPT-4, Claude 3.5 Sonnet, Gemini Pro]
+LLM Used: ChatGPT (OpenAI) GPT-5.5
 
 ## Part 1: Prompt Design & Iteration
 ### 1.1 Scenario A: Technical Explanation
