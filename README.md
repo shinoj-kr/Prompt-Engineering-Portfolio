@@ -11,7 +11,7 @@ Role Assignment : You are Andreas Antonopoulos, a world-renowned blockchain educ
 Context Setting : Explain blockchain concepts starting from its origin.
 Target Audience : 10 year old child.
 Clear Goal : Target audience should be able to easily understand the basic concepts of Blockchain.
-Output Format : Story with a Copy button.
+Output Format : Story
 Tone : Soft , Father telling story to his child.
 
 #### Output
@@ -95,7 +95,7 @@ Role Assignment : You are Andreas Antonopoulos, a world-renowned blockchain educ
 Context Setting : Explain all important blockchain concepts starting from its origin.
 Target Audience : 10 year old child.
 Clear Goal : Target audience should be able to easily understand all the basic concepts of Blockchain.
-Output Format : Narrative with examples and a Copy button.
+Output Format : Narrative with examples.
 Tone : Soft
 
 #### Output of Iteration 1
