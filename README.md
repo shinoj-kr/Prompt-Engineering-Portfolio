@@ -393,6 +393,26 @@ PASTE FULL PROMPT HERE
 PASTE FULL PROMPT HERE
 
 </details>
+
+<table>
+<tr>
+<th>Version</th>
+<th>Prompt</th>
+<th>What Changed</th>
+<th>Why This Improved the Output</th>
+</tr>
+
+<tr>
+<td>V1</td>
+<td>
+Role Assignment: ...
+...
+</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+
+</table>
 ### 1.3 Role and Context Analysis
 
 ## Part 2: Temperature & Parameter Control
