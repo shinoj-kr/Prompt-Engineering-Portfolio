@@ -296,6 +296,19 @@ Kind regards,
 [Your Name]
 
 ### 1.1 Scenario C: Creative Content
+#### Initial Prompt:
+Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
+
+Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
+
+Target Audience : General Public
+
+Clear Goal : Public should get attracted towards the tagline.
+
+Output Format : Sentence
+
+Tone : Exciting
+
 ### 1.2 Iteration Documentation
 ### 1.3 Role and Context Analysis
 
