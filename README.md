@@ -200,6 +200,26 @@ Moral: When many honest helpers work together and protect the truth, trust becom
 
 
 ### 1.1 Scenario B: Professional Email
+#### Initial Prompt :
+Role Assignment:
+You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette.
+
+Context Setting:
+The candidate has received a job offer but has decided not to accept it due to personal career considerations. The candidate wishes to decline the offer respectfully while maintaining a positive relationship with the company.
+
+Target Audience:
+Human Resources Manager
+
+Clear Goal:
+Draft a professional email that politely declines the job offer, expresses gratitude for the opportunity, and conveys continued interest in future opportunities with the company.
+
+Output Format:
+Email
+
+Tone:
+Professional, Courteous, and Positive
+
+
 ### 1.1 Scenario C: Creative Content
 ### 1.2 Iteration Documentation
 ### 1.3 Role and Context Analysis
