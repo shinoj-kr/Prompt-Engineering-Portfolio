@@ -373,28 +373,9 @@ Negative Instructions:
 Flow Pure. Live Green. Choose Tomorrow.
 
 ### 1.2 Iteration Documentation
-<details>
-<summary>Scenario A - V1 Prompt</summary>
+<h2>Scenario A – Technical Explanation</h2>
 
-PASTE FULL PROMPT HERE
-
-</details>
-
-<details>
-<summary>Scenario A - V2 Prompt</summary>
-
-PASTE FULL PROMPT HERE
-
-</details>
-
-<details>
-<summary>Scenario A - V3 Prompt</summary>
-
-PASTE FULL PROMPT HERE
-
-</details>
-
-<table>
+<table border="1">
 <tr>
 <th>Version</th>
 <th>Prompt</th>
@@ -404,12 +385,393 @@ PASTE FULL PROMPT HERE
 
 <tr>
 <td>V1</td>
+
 <td>
-Role Assignment: ...
-...
+
+Role Assignment : You are Andreas Antonopoulos, a world-renowned blockchain educator
+
+<br><br>
+
+Context Setting : Explain all important blockchain concepts starting from its origin.
+
+<br><br>
+
+Target Audience : 10 year old child.
+
+<br><br>
+
+Clear Goal : Target audience should be able to easily understand all the basic concepts of Blockchain.
+
+<br><br>
+
+Output Format : Narrative with examples.
+
+<br><br>
+
+Tone : Soft
+
 </td>
-<td>N/A</td>
-<td>N/A</td>
+
+<td>
+N/A
+</td>
+
+<td>
+N/A
+</td>
+
+</tr>
+
+<tr>
+
+<td>V2</td>
+
+<td>
+
+Role Assignment : You are Andreas Antonopoulos, a world-renowned blockchain educator
+
+<br><br>
+
+Context Setting : Explain all important blockchain concepts starting from its origin.
+
+<br><br>
+
+Target Audience : 10 year old child.
+
+<br><br>
+
+Clear Goal : Target audience should be able to easily understand all the basic concepts of Blockchain.
+
+<br><br>
+
+Output Format : Story and with a Copy button to copy the story told.
+
+<br><br>
+
+Tone : Soft like a father to his child
+
+<br><br>
+
+Length Constraints : Short & Sweet
+
+<br><br>
+
+Positive Instructions : All the concepts should be arranged in such a way that it should be part of the story so that child won't feel bored and at the same time understand easily.
+
+<br><br>
+
+Negative Instructions : Concepts should not be arranged chapter wise like in school.
+
+</td>
+
+<td>
+
+Added Story output format.
+
+<br>
+
+Added copyable story requirement.
+
+<br>
+
+Added Length Constraint: Short & Sweet.
+
+<br>
+
+Changed Tone from "Soft" to "Soft like a father to his child".
+
+<br>
+
+Added Positive Instructions to integrate concepts into the story.
+
+<br>
+
+Added Negative Instructions preventing chapter-wise explanations.
+
+</td>
+
+<td>
+
+Compared with V1, the generated output shifted from a straightforward narrative explanation to a story-driven explanation. The story structure made blockchain concepts easier for a 10-year-old to follow and remember. The fatherly tone created a warmer and more engaging reading experience. Embedding concepts within the story reduced the textbook-like feel and improved overall readability and engagement.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>V3</td>
+
+<td>
+
+Role Assignment:
+You are Andreas Antonopoulos, a world-renowned blockchain educator and storyteller.
+
+<br><br>
+
+Context Setting:
+Explain all important blockchain concepts starting from their origin and naturally progress toward modern blockchain applications.
+
+<br><br>
+
+Target Audience:
+A curious 10-year-old child with no prior knowledge of blockchain or technology.
+
+<br><br>
+
+Clear Goal:
+The child should easily understand the fundamental concepts of blockchain, remember them after reading the story, and be able to explain the basic idea of blockchain in their own words.
+
+<br><br>
+
+Output Format:
+
+<br>
+
+* Write as a short magical adventure story.
+
+<br>
+
+* Present the entire story inside a single copyable text block.
+
+<br>
+
+* Do not use headings, chapters, lessons, bullet points, tables, or school-style sections.
+
+<br>
+
+* Keep the story flowing naturally from beginning to end.
+
+<br><br>
+
+Creativity Level:
+
+High. Use magical kingdoms, memorable characters, talking animals, enchanted books, treasure maps, magical crystals, or other imaginative elements while keeping the blockchain concepts accurate and easy to understand.
+
+<br><br>
+
+Tone:
+
+Warm, gentle, encouraging, and caring—like a father telling a bedtime story to his child.
+
+<br><br>
+
+Length Constraint:
+
+600–900 words.
+
+<br><br>
+
+Positive Instructions:
+
+Naturally and seamlessly introduce the following concepts as part of the adventure:
+
+<br>
+
+* The problem of trust before blockchain existed
+
+<br>
+
+* Digital transactions
+
+<br>
+
+* Blocks
+
+<br>
+
+* Chain of blocks
+
+<br>
+
+* Distributed ledger
+
+<br>
+
+* Network of computers (nodes)
+
+<br>
+
+* Validation and consensus
+
+<br>
+
+* Cryptography (secret locks and keys)
+
+<br>
+
+* Immutability (records cannot be secretly changed)
+
+<br>
+
+* Transparency
+
+<br>
+
+* Security
+
+<br>
+
+* Mining or validation process
+
+<br>
+
+* Rewards
+
+<br>
+
+* Smart contracts
+
+<br>
+
+* Tokens and cryptocurrencies
+
+<br>
+
+* Real-world uses of blockchain
+
+<br><br>
+
+Ensure every concept becomes part of the story itself rather than being separately explained.
+
+<br><br>
+
+Story Flow Guidelines:
+
+<br>
+
+* Begin with a kingdom that struggles because nobody can fully trust transaction records.
+
+<br>
+
+* Introduce a magical solution that gradually becomes the blockchain.
+
+<br>
+
+* Show how magical records are stored in blocks and linked together into a chain.
+
+<br>
+
+* Let many magical guardians (nodes) work together to verify records.
+
+<br>
+
+* Include secret magical locks and keys to represent cryptography.
+
+<br>
+
+* Show why nobody can secretly alter old records.
+
+<br>
+
+* Introduce rewards for helping validate records.
+
+<br>
+
+* Include magical agreements that automatically execute when conditions are met (smart contracts).
+
+<br>
+
+* End with examples showing how the magical system helps people exchange value, track treasures, protect important records, and solve real-world problems.
+
+<br><br>
+
+End With:
+
+<br>
+
+* A very short summary connecting the story elements to all the actual blockchain concepts explained in the story.(4–7 sentences).
+
+<br>
+
+* A simple moral of the story.
+
+<br><br>
+
+Negative Instructions:
+
+<br>
+
+* Do NOT arrange concepts chapter-wise.
+
+<br>
+
+* Do NOT create school-like lessons.
+
+<br>
+
+* Do NOT use technical jargon without a child-friendly analogy.
+
+<br>
+
+* Do NOT break the story flow to explain definitions.
+
+<br>
+
+* Do NOT make the story feel like a textbook.
+
+<br>
+
+* Do NOT skip any of the listed blockchain concepts.
+
+<br>
+
+* Do NOT mention that you are teaching or explaining blockchain.
+
+</td>
+
+<td>
+
+Expanded role to educator and storyteller.
+
+<br>
+
+Added detailed audience profile.
+
+<br>
+
+Added explicit learning outcome.
+
+<br>
+
+Added magical adventure story format.
+
+<br>
+
+Added high creativity requirements.
+
+<br>
+
+Added 600–900 word length constraint.
+
+<br>
+
+Added mandatory blockchain concepts list.
+
+<br>
+
+Added story flow guidelines.
+
+<br>
+
+Added summary and moral requirements.
+
+<br>
+
+Added extensive positive instructions.
+
+<br>
+
+Added extensive negative instructions.
+
+</td>
+
+<td>
+
+Compared with V2, the generated output became significantly more comprehensive and educational while maintaining a natural storytelling flow. All major blockchain concepts were consistently covered instead of only the commonly discussed concepts. The magical adventure framework improved concept retention by associating blockchain ideas with memorable story elements. The mandatory concept list ensured completeness, while the story-flow instructions improved narrative coherence. The summary and moral reinforced understanding and recall, resulting in a more effective educational output for the target audience.
+
+</td>
+
 </tr>
 
 </table>
