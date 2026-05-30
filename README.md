@@ -15,6 +15,7 @@ Output Format : Story with a Copy button.
 Tone : Soft , Father telling story to his child.
 
 * Output
+
 The Story of the Magic Notebook
 
 One evening, a little boy named Arjun sat beside his father and asked,
