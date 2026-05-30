@@ -292,6 +292,7 @@ I would like to express my sincere appreciation for your consideration and profe
 Thank you once again for your understanding. I wish you and the team continued success.
 
 Kind regards,
+
 [Your Name]
 
 ### 1.1 Scenario C: Creative Content
