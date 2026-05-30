@@ -309,7 +309,7 @@ Output Format : Sentence
 
 Tone : Exciting
 
-#### Refined Prompt:
+#### Refined Prompt: 1
 Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
 
 Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
