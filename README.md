@@ -37,7 +37,7 @@ Length Constraints : Short & Sweet
 
 Positive Instructions : All the concepts should be arranged in such a way that it should be part of the story so that child won't feel bored and at the same time understand easily.
 
-Negative Instructions : Concepts should not be arranged chapterwise like in school.
+Negative Instructions : Concepts should not be arranged chapter wise like in school.
 
 #### Refined Prompt: 2
 Role Assignment:
