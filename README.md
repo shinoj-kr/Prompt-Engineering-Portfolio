@@ -214,6 +214,19 @@ Moral: When many honest helpers work together and protect the truth, trust becom
 
 ### 1.1 Scenario B: Professional Email
 #### Initial Prompt :
+Role Assignment: You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette
+
+Context Setting : Draft an email declining a job offer politely while expressing continued interest in the company.
+
+Target Audience : Human Resources Manager
+
+Clear Goal : Company should consider employee for job offers in future.
+
+Output Format : Email
+
+Tone : Professional
+
+#### Refined Prompt 1
 Role Assignment:
 You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette.
 
