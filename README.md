@@ -999,6 +999,244 @@ Compared with V2, the generated email became more polished, complete, and profes
 </tr>
 
 </table>
+
+<h2>Scenario C – Creative Content</h2>
+
+<table border="1">
+<tr>
+<th>Version</th>
+<th>Prompt</th>
+<th>What Changed</th>
+<th>Why This Improved the Output</th>
+</tr>
+
+<tr>
+
+<td>V1</td>
+
+<td>
+
+Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
+
+<br><br>
+
+Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
+
+<br><br>
+
+Target Audience : General Public
+
+<br><br>
+
+Clear Goal : Public should get attracted towards the tagline.
+
+<br><br>
+
+Output Format : Single catchy tagline.
+
+<br><br>
+
+Tone : Exciting
+
+</td>
+
+<td>
+N/A
+</td>
+
+<td>
+N/A
+</td>
+
+</tr>
+
+<tr>
+
+<td>V2</td>
+
+<td>
+
+Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
+
+<br><br>
+
+Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
+
+<br><br>
+
+Target Audience : General Public
+
+<br><br>
+
+Clear Goal : Public should get attracted towards the tagline.
+
+<br><br>
+
+Output Format : Single catchy tagline.
+
+<br><br>
+
+Tone : Exciting
+
+<br><br>
+
+Length Constraints : 6-8 words.
+
+<br><br>
+
+High Creativity : Create an original, memorable, and emotionally engaging tagline that highlights sustainability and encourages consumers to choose an eco-friendly lifestyle.
+
+</td>
+
+<td>
+
+Added Length Constraint of 6–8 words.
+
+<br>
+
+Added High Creativity requirement.
+
+<br>
+
+Added requirement to highlight sustainability.
+
+<br>
+
+Added requirement to encourage an eco-friendly lifestyle.
+
+<br>
+
+Added requirement for originality, memorability, and emotional engagement.
+
+</td>
+
+<td>
+
+Compared with V1, the generated tagline became more focused and impactful. The word limit encouraged concise messaging, making the tagline easier to remember. The sustainability requirement ensured that the environmental benefit became a central theme rather than an implied message. The creativity instruction resulted in a more distinctive and emotionally appealing tagline that better aligned with the eco-friendly brand positioning.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>V3</td>
+
+<td>
+
+Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
+
+<br><br>
+
+Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
+
+<br><br>
+
+Target Audience : General Public
+
+<br><br>
+
+Clear Goal : Public should get attracted towards the tagline.
+
+<br><br>
+
+Output Format : Single catchy tagline.
+
+<br><br>
+
+Tone : Exciting, Inspirational, and Environmentally Conscious
+
+<br><br>
+
+Length Constraints : 6-8 words.
+
+<br><br>
+
+Creativity Level:
+
+High. Create an original, memorable, and emotionally engaging tagline that highlights sustainability and encourages consumers to choose an eco-friendly lifestyle.
+
+<br><br>
+
+Constraints and Rules :
+
+<br>
+
+* Be easy to remember and suitable for a broad audience.
+
+<br>
+
+* Avoid complex or technical terms.
+
+<br><br>
+
+Positive Instructions:
+
+<br>
+
+* Make the tagline unique and brandable.
+
+<br>
+
+* Use powerful and inspiring words.
+
+<br>
+
+* Create an emotional connection with eco-conscious consumers.
+
+<br><br>
+
+Negative Instructions:
+
+<br>
+
+* Do not copy or closely resemble existing famous brand taglines.
+
+<br>
+
+* Do not use clichés or overused marketing phrases.
+
+<br>
+
+* Do not create negative, fear-based, or guilt-inducing messages.
+
+<br>
+
+* Do not make unrealistic environmental claims.
+
+</td>
+
+<td>
+
+Enhanced tone from "Exciting" to "Exciting, Inspirational, and Environmentally Conscious".
+
+<br>
+
+Added memorability and broad audience requirements.
+
+<br>
+
+Added requirement to avoid complex or technical language.
+
+<br>
+
+Added Positive Instructions for uniqueness, brandability, emotional appeal, and inspiring language.
+
+<br>
+
+Added Negative Instructions preventing clichés, imitation of existing taglines, fear-based messaging, and unrealistic environmental claims.
+
+</td>
+
+<td>
+
+Compared with V2, the generated tagline became more distinctive, marketable, and brand-oriented. The additional tone guidance produced a tagline that was not only exciting but also inspirational and environmentally conscious. The brandability requirement encouraged creation of a unique slogan rather than a generic sustainability message. The positive instructions strengthened emotional appeal and memorability, while the negative instructions reduced the likelihood of clichés, exaggerated claims, or similarity to existing brand taglines. As a result, the final tagline was more original, credible, memorable, and suitable for long-term brand positioning.
+
+</td>
+
+</tr>
+
+</table>
 ### 1.3 Role and Context Analysis
 
 ## Part 2: Temperature & Parameter Control
