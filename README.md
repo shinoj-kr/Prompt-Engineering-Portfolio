@@ -1239,6 +1239,24 @@ Compared with V2, the generated tagline became more distinctive, marketable, and
 </table>
 ### 1.3 Role and Context Analysis
 
+Scenario A: Technical Explanation
+Role Assignment
+
+The role of Andreas Antonopoulos, a world-renowned blockchain educator and storyteller, guided the AI to explain blockchain concepts accurately while maintaining an educational approach. This role helped ensure that complex technical concepts were presented in a simplified and engaging manner suitable for young learners.
+
+Context Setting
+
+The context required the AI to explain blockchain concepts from their origin to modern applications for a 10-year-old child through storytelling. This context helped the AI choose age-appropriate language, relatable examples, and a narrative structure that made difficult concepts easier to understand and remember.
+
+Scenario C: Creative Content
+Role Assignment
+
+The role of Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands directed the AI to think from a branding and advertising perspective. This helped generate taglines that were creative, memorable, and aligned with marketing best practices.
+
+Context Setting
+
+The context specified that the task was to create a tagline for a new eco-friendly water bottle brand targeting the general public. This context guided the AI to focus on sustainability, environmental responsibility, and consumer appeal, resulting in taglines that supported the brand's eco-friendly identity.
+
 ## Part 2: Temperature & Parameter Control
 ### 2.1 Temperature Experimentation
 ### 2.2 Analysis & Recommendations
