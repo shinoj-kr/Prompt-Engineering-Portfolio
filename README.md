@@ -386,6 +386,13 @@ PASTE FULL PROMPT HERE
 PASTE FULL PROMPT HERE
 
 </details>
+
+<details>
+<summary>Scenario A - V3 Prompt</summary>
+
+PASTE FULL PROMPT HERE
+
+</details>
 ### 1.3 Role and Context Analysis
 
 ## Part 2: Temperature & Parameter Control
