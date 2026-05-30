@@ -9,10 +9,15 @@ LLM Used: ChatGPT (OpenAI) GPT-5.5
 
 #### Initial Prompt:
 Role Assignment : You are Andreas Antonopoulos, a world-renowned blockchain educator
+
 Context Setting : Explain all important blockchain concepts starting from its origin.
+
 Target Audience : 10 year old child.
+
 Clear Goal : Target audience should be able to easily understand all the basic concepts of Blockchain.
+
 Output Format : Narrative with examples.
+
 Tone : Soft
 
 #### Refined Prompt: 1
