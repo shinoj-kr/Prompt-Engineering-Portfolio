@@ -290,6 +290,7 @@ Thank you very much for offering me the opportunity to join your organization. I
 After careful consideration of my current career goals and long-term professional plans, I have decided not to proceed with the offer at this time. This decision was not easy, as I hold your organization in high regard and am grateful for the confidence you demonstrated in my abilities.
 I would like to express my sincere appreciation for your consideration and professionalism throughout the process. I remain impressed by the organization and would welcome the opportunity to be considered for suitable roles in the future should our paths align again.
 Thank you once again for your understanding. I wish you and the team continued success.
+
 Kind regards,
 [Your Name]
 
