@@ -309,6 +309,23 @@ Output Format : Sentence
 
 Tone : Exciting
 
+#### Refined Prompt:
+Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
+
+Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
+
+Target Audience : General Public
+
+Clear Goal : Public should get attracted towards the tagline.
+
+Output Format : Single catchy tagline.
+
+Tone : Exciting
+
+Length Constraints : 6-8 words.
+
+High Creativity : Create an original, memorable, and emotionally engaging tagline that highlights sustainability and encourages consumers to choose an eco-friendly lifestyle.
+
 ### 1.2 Iteration Documentation
 ### 1.3 Role and Context Analysis
 
