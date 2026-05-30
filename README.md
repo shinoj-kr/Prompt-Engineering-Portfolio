@@ -283,7 +283,9 @@ Negative Instructions:
 
 #### LLM Output to the Refined Prompt 2
 Dear Hiring Manager,
+
 I hope you are doing well.
+
 Thank you very much for offering me the opportunity to join your organization. I sincerely appreciate the time and effort invested by you and the interview panel throughout the recruitment process. It was a pleasure learning more about the company, its culture, and the exciting work being undertaken by the team.
 After careful consideration of my current career goals and long-term professional plans, I have decided not to proceed with the offer at this time. This decision was not easy, as I hold your organization in high regard and am grateful for the confidence you demonstrated in my abilities.
 I would like to express my sincere appreciation for your consideration and professionalism throughout the process. I remain impressed by the organization and would welcome the opportunity to be considered for suitable roles in the future should our paths align again.
