@@ -226,7 +226,7 @@ Output Format : Email
 
 Tone : Professional
 
-#### Refined Prompt 1
+#### Refined Prompt: 1
 Role Assignment:
 You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette.
 
@@ -245,6 +245,51 @@ Email
 Tone:
 Professional, Courteous, and Positive
 
+#### Refined Prompt: 2
+Role Assignment:
+You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette.
+
+Context Setting:
+The candidate has received a job offer but has decided not to accept it due to personal career considerations. The candidate wishes to decline the offer respectfully while maintaining a positive relationship with the company.
+
+Target Audience:
+Human Resources Manager
+
+Clear Goal:
+Draft a professional email that politely declines the job offer, expresses gratitude for the opportunity, and conveys continued interest in future opportunities with the company.
+
+Output Format:
+Email
+
+Tone:
+Professional, Courteous, and Positive
+
+Length Constraint:
+150-200 words
+
+Positive Instructions: 
+Mention a positive and professional reason for declining the offer without criticizing the company.
+
+Constraints and Rules
+Include a professional closing statement.
+
+Negative Instructions:
+
+* Do not use rude, negative, or emotional language.
+* Do not disclose personal or confidential details.
+* Do not compare the company with other employers.
+* Do not burn bridges or imply dissatisfaction with the company.
+* Do not use informal language, slang, or emojis.
+
+#### LLM Output to the Refined Prompt 2
+Dear Hiring Manager,
+I hope you are doing well.
+Thank you very much for offering me the opportunity to join your organization. I sincerely appreciate the time and effort invested by you and the interview panel throughout the recruitment process. It was a pleasure learning more about the company, its culture, and the exciting work being undertaken by the team.
+After careful consideration of my current career goals and long-term professional plans, I have decided not to proceed with the offer at this time. This decision was not easy, as I hold your organization in high regard and am grateful for the confidence you demonstrated in my abilities.
+I would like to express my sincere appreciation for your consideration and professionalism throughout the process. I remain impressed by the organization and would welcome the opportunity to be considered for suitable roles in the future should our paths align again.
+Thank you once again for your understanding. I wish you and the team continued success.
+Kind regards,
+[Your Name]
 
 ### 1.1 Scenario C: Creative Content
 ### 1.2 Iteration Documentation
