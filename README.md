@@ -281,7 +281,7 @@ Negative Instructions:
 * Do not burn bridges or imply dissatisfaction with the company.
 * Do not use informal language, slang, or emojis.
 
-#### LLM Output to the Refined Prompt 2
+#### LLM Output to the Refined Prompt: 2
 Dear Hiring Manager,
 
 I hope you are doing well.
