@@ -775,6 +775,230 @@ Compared with V2, the generated output became significantly more comprehensive a
 </tr>
 
 </table>
+
+<h2>Scenario B – Professional Email</h2>
+
+<table border="1">
+<tr>
+<th>Version</th>
+<th>Prompt</th>
+<th>What Changed</th>
+<th>Why This Improved the Output</th>
+</tr>
+
+<tr>
+
+<td>V1</td>
+
+<td>
+
+Role Assignment: You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette
+
+<br><br>
+
+Context Setting : Draft an email declining a job offer politely while expressing continued interest in the company.
+
+<br><br>
+
+Target Audience : Human Resources Manager
+
+<br><br>
+
+Clear Goal : Company should consider employee for job offers in future.
+
+<br><br>
+
+Output Format : Email
+
+<br><br>
+
+Tone : Professional
+
+</td>
+
+<td>
+N/A
+</td>
+
+<td>
+N/A
+</td>
+
+</tr>
+
+<tr>
+
+<td>V2</td>
+
+<td>
+
+Role Assignment:
+You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette.
+
+<br><br>
+
+Context Setting:
+The candidate has received a job offer but has decided not to accept it due to personal career considerations. The candidate wishes to decline the offer respectfully while maintaining a positive relationship with the company.
+
+<br><br>
+
+Target Audience:
+Human Resources Manager
+
+<br><br>
+
+Clear Goal:
+Draft a professional email that politely declines the job offer, expresses gratitude for the opportunity, and conveys continued interest in future opportunities with the company.
+
+<br><br>
+
+Output Format:
+Email
+
+<br><br>
+
+Tone:
+Professional, Courteous, and Positive
+
+</td>
+
+<td>
+
+Added candidate background and decision context.
+
+<br>
+
+Added requirement to maintain a positive relationship with the company.
+
+<br>
+
+Added requirement to express gratitude.
+
+<br>
+
+Added requirement to convey continued interest in future opportunities.
+
+<br>
+
+Enhanced tone from only "Professional" to "Professional, Courteous, and Positive".
+
+</td>
+
+<td>
+
+Compared with V1, the generated email became more relationship-focused and professional. The additional context helped produce a response that not only declined the offer politely but also expressed appreciation and maintained goodwill. The explicit requirement to show gratitude and future interest resulted in a stronger email that better supported the goal of being considered for future opportunities.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>V3</td>
+
+<td>
+
+Role Assignment:
+You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette.
+
+<br><br>
+
+Context Setting:
+The candidate has received a job offer but has decided not to accept it due to personal career considerations. The candidate wishes to decline the offer respectfully while maintaining a positive relationship with the company.
+
+<br><br>
+
+Target Audience:
+Human Resources Manager
+
+<br><br>
+
+Clear Goal:
+Draft a professional email that politely declines the job offer, expresses gratitude for the opportunity, and conveys continued interest in future opportunities with the company.
+
+<br><br>
+
+Output Format:
+Email
+
+<br><br>
+
+Tone:
+Professional, Courteous, and Positive
+
+<br><br>
+
+Length Constraint:
+150-200 words
+
+<br><br>
+
+Positive Instructions:
+Mention a positive and professional reason for declining the offer without criticizing the company.
+
+<br><br>
+
+Constraints and Rules
+
+Include a professional closing statement.
+
+<br><br>
+
+Negative Instructions:
+
+<br>
+
+* Do not use rude, negative, or emotional language.
+
+<br>
+
+* Do not disclose personal or confidential details.
+
+<br>
+
+* Do not compare the company with other employers.
+
+<br>
+
+* Do not burn bridges or imply dissatisfaction with the company.
+
+<br>
+
+* Do not use informal language, slang, or emojis.
+
+</td>
+
+<td>
+
+Added length constraint of 150–200 words.
+
+<br>
+
+Added instruction to provide a professional reason for declining.
+
+<br>
+
+Added requirement for a professional closing statement.
+
+<br>
+
+Added detailed negative instructions governing tone and content.
+
+<br>
+
+Added safeguards against comparisons, emotional language, confidential information, and informal communication.
+
+</td>
+
+<td>
+
+Compared with V2, the generated email became more polished, complete, and professionally structured. The length constraint ensured adequate detail without becoming excessively long. The professional reason for declining made the message more credible and respectful. The requirement for a professional closing improved completeness, while the negative instructions prevented inappropriate wording, unnecessary disclosures, or statements that could damage future opportunities. The resulting email aligned more closely with professional business communication standards.
+
+</td>
+
+</tr>
+
+</table>
 ### 1.3 Role and Context Analysis
 
 ## Part 2: Temperature & Parameter Control
