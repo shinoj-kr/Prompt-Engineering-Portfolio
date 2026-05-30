@@ -326,6 +326,52 @@ Length Constraints : 6-8 words.
 
 High Creativity : Create an original, memorable, and emotionally engaging tagline that highlights sustainability and encourages consumers to choose an eco-friendly lifestyle.
 
+#### Refined Prompt: 2
+Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
+
+Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
+
+Target Audience : General Public
+
+Clear Goal : Public should get attracted towards the tagline.
+
+Output Format : Single catchy tagline.
+
+Tone : Exciting, Inspirational, and Environmentally Conscious
+
+Length Constraints : 6-8 words.
+
+Creativity Level:
+High. Create an original, memorable, and emotionally engaging tagline that highlights sustainability and encourages consumers to choose an eco-friendly lifestyle.
+
+Constraints and Rules :
+
+* Be easy to remember and suitable for a broad audience.
+
+* Avoid complex or technical terms.
+
+Positive Instructions: 
+
+* Make the tagline unique and brandable.
+
+* Use powerful and inspiring words.
+
+* Create an emotional connection with eco-conscious consumers.
+
+Negative Instructions:
+
+* Do not copy or closely resemble existing famous brand taglines.
+
+* Do not use clichés or overused marketing phrases.
+
+* Do not create negative, fear-based, or guilt-inducing messages.
+
+* Do not make unrealistic environmental claims.
+
+#### LLM Output to the Refined Prompt: 2
+
+Flow Pure. Live Green. Choose Tomorrow.
+
 ### 1.2 Iteration Documentation
 ### 1.3 Role and Context Analysis
 
