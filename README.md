@@ -1523,6 +1523,15 @@ The output becomes more expressive, engaging, and lifestyle-oriented while retai
 
 ### 2.2 Analysis & Recommendations
 
+#### Uses of Low Temperature
+Low temperature is most suitable when consistency and factual presentation are important. For example, it can be used for writing product specifications for an e-commerce website and for generating technical or business documentation where accuracy and predictable output are required. The low-temperature output remained direct, structured, and focused on presenting product information without adding extra promotional language.
+
+#### Uses of High Temperature
+High temperature is most suitable when audience engagement and marketing appeal are important. For example, it can be used for advertising copy and social media marketing content where more expressive and persuasive language is beneficial. The high-temperature output introduced a more conversational style and connected the product to everyday usage scenarios, making it more engaging for readers.
+
+#### Temperature that Provided Best Product Description 
+For this task, medium temperature worked best because the objective was to create an attractive product description while maintaining factual correctness. The medium-temperature output preserved all key product information while using more engaging language than the low-temperature output and remaining more balanced and professional than the high-temperature output. It successfully combined accuracy, readability, and marketing appeal, making it the most suitable choice for a consumer-facing product description.
+
 ## Part 3: Strategic Prompting Techniques
 ### 3.1 Chain-of-Thought Prompting
 ### 3.2 Few-Shot Prompting
