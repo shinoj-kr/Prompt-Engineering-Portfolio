@@ -1259,6 +1259,108 @@ The context specified that the task was to create a tagline for a new eco-friend
 
 ## Part 2: Temperature & Parameter Control
 ### 2.1 Temperature Experimentation
+<h2>Impact of Temperature on LLM Output</h2>
+
+<table border="1">
+<tr>
+<th>Aspect</th>
+<th>Low Temperature Output</th>
+<th>Medium Temperature Output</th>
+<th>High Temperature Output</th>
+</tr>
+
+<tr>
+<td><b>Writing Style</b></td>
+<td>
+Uses a direct and factual writing style focused on describing the laptop's specifications and capabilities.
+</td>
+<td>
+Maintains factual accuracy while using slightly more engaging language directed toward potential users.
+</td>
+<td>
+Uses a more expressive and conversational style with a stronger marketing-oriented presentation.
+</td>
+</tr>
+
+<tr>
+<td><b>Audience Engagement</b></td>
+<td>
+Primarily focuses on providing information about the product.
+</td>
+<td>
+Balances product information with language that connects the product to user needs.
+</td>
+<td>
+Actively engages the reader through lifestyle-oriented language and relatable situations.
+</td>
+</tr>
+
+<tr>
+<td><b>Product Positioning</b></td>
+<td>
+Positions the laptop as a practical device for everyday computing.
+</td>
+<td>
+Positions the laptop as a reliable companion for work, study, and entertainment.
+</td>
+<td>
+Positions the laptop as a convenient companion that fits into different aspects of everyday life.
+</td>
+</tr>
+
+<tr>
+<td><b>Use of Creativity</b></td>
+<td>
+Creativity is minimal and the focus remains on factual description.
+</td>
+<td>
+Introduces moderate creativity through more appealing and user-focused phrasing.
+</td>
+<td>
+Shows the highest level of creativity through engaging language and lifestyle-oriented descriptions.
+</td>
+</tr>
+
+<tr>
+<td><b>Emphasis on User Benefits</b></td>
+<td>
+Benefits are presented mainly through product features and specifications.
+</td>
+<td>
+Benefits are connected more clearly to user experiences such as multitasking and productivity.
+</td>
+<td>
+Benefits are connected to everyday activities and convenience, making the product feel more relatable.
+</td>
+</tr>
+
+<tr>
+<td><b>Marketing Appeal</b></td>
+<td>
+Provides a professional product description with limited promotional language.
+</td>
+<td>
+Uses a stronger promotional tone while maintaining factual presentation.
+</td>
+<td>
+Displays the strongest promotional appeal through engaging and persuasive language.
+</td>
+</tr>
+
+<tr>
+<td><b>Overall Effect of Temperature Setting</b></td>
+<td>
+The output remains highly controlled, precise, and information-focused.
+</td>
+<td>
+The output balances factual accuracy with audience engagement.
+</td>
+<td>
+The output becomes more expressive, engaging, and lifestyle-oriented while retaining the same core product information.
+</td>
+</tr>
+
+</table>
 
 ### 2.2 Analysis & Recommendations
 
