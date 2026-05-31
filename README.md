@@ -1259,6 +1259,165 @@ The context specified that the task was to create a tagline for a new eco-friend
 
 ## Part 2: Temperature & Parameter Control
 ### 2.1 Temperature Experimentation
+
+#### Writing a product description for a laptop
+#### Low Temperature : Be precise and consistent
+#### Prompt
+Role Assignment: You are a Senior Product Marketing Specialist specializing in consumer electronics and laptop products.
+
+Context Setting : Write a product description for a laptop
+
+Target Audience : General Public
+
+Clear Goal : Public should be attracted towards the product.
+
+Output Format : Product Description.
+
+Tone : Professional and Informative
+
+Length Constraints : 120-150 words.
+
+Low Temperature : Be precise and consistent
+
+Product Details:
+
+Brand: Lenovo
+Model: IdeaPad Slim 3
+Display: 15.6-inch Full HD
+Processor: Intel Core i5
+RAM: 16 GB
+Storage: 512 GB SSD
+Battery Life: Up to 8 hours
+Weight: 1.6 kg
+Operating System: Windows 11
+USP: Lightweight design with fast performance for everyday use
+
+Constraints and Rules :
+
+* Be easy to remember and suitable for a broad audience.
+
+* Avoid complex or technical terms.
+
+Positive Instructions: 
+
+* Product description should highlight the USP of the product in the first 2-3 sentences.
+
+* Focus on factual product benefits and clear feature descriptions.
+
+Negative Instructions:
+
+* Do not make unrealistic claims.
+
+#### LLM Output for Low Temperature
+The Lenovo IdeaPad Slim 3 is a lightweight laptop designed to deliver fast and reliable performance for everyday use. With its 1.6 kg design and Intel Core i5 processor, it helps you work, study, and stay productive wherever you go. Its combination of speed and portability makes it a practical choice for daily computing needs.
+
+The laptop features a 15.6-inch Full HD display that provides clear visuals for work, entertainment, and browsing. With 16 GB RAM and a 512 GB SSD, it offers smooth multitasking and quick access to files and applications. The battery supports up to 8 hours of usage, helping you stay connected throughout the day. Running on Windows 11, the Lenovo IdeaPad Slim 3 delivers a user-friendly experience with dependable performance in a sleek and modern package.
+
+#### Medium Temperature : Balance creativity and accuracy. Use engaging language while maintaining factual correctness.
+#### Prompt
+Role Assignment: You are a Senior Product Marketing Specialist specializing in consumer electronics and laptop products.
+
+Context Setting : Write a product description for a laptop
+
+Target Audience : General Public
+
+Clear Goal : Public should be attracted towards the product.
+
+Output Format : Product Description.
+
+Tone : Professional and Informative
+
+Length Constraints : 120-150 words.
+
+Medium Temperature : Balance creativity and accuracy. Use engaging language while maintaining factual correctness.
+
+Product Details:
+
+Brand: Lenovo
+Model: IdeaPad Slim 3
+Display: 15.6-inch Full HD
+Processor: Intel Core i5
+RAM: 16 GB
+Storage: 512 GB SSD
+Battery Life: Up to 8 hours
+Weight: 1.6 kg
+Operating System: Windows 11
+USP: Lightweight design with fast performance for everyday use
+
+Constraints and Rules :
+
+* Be easy to remember and suitable for a broad audience.
+
+* Avoid complex or technical terms.
+
+Positive Instructions: 
+
+* Product description should highlight the USP of the product in the first 2-3 sentences.
+
+* Focus on factual product benefits and clear feature descriptions.
+
+Negative Instructions:
+
+* Do not make unrealistic claims.
+
+#### LLM Output for Medium Temperature
+The Lenovo IdeaPad Slim 3 is designed for people who want reliable performance in a lightweight and easy-to-carry laptop. Its slim 1.6 kg design and fast Intel Core i5 processor make it a great companion for work, study, and everyday entertainment. With 16 GB RAM and a 512 GB SSD, you can enjoy smooth multitasking, quick startup times, and ample space for your files and applications.
+
+The 15.6-inch Full HD display delivers clear and vibrant visuals, making it comfortable for both productivity and streaming. Running on Windows 11, the laptop offers a modern and user-friendly experience. Its battery life of up to 8 hours helps you stay productive throughout the day without frequent charging. Combining portability, speed, and practicality, the Lenovo IdeaPad Slim 3 is a smart choice for everyday computing needs.
+
+#### High Temperature : Be creative and explore diverse ideas.
+#### Prompt
+Role Assignment: You are a Senior Product Marketing Specialist specializing in consumer electronics and laptop products.
+
+Context Setting : Write a product description for a laptop
+
+Target Audience : General Public
+
+Clear Goal : Public should be attracted towards the product.
+
+Output Format : Product Description.
+
+Tone : Professional and Informative
+
+Length Constraints : 120-150 words.
+
+High Temperature : Be creative and explore diverse ideas.
+
+Product Details:
+
+Brand: Lenovo
+Model: IdeaPad Slim 3
+Display: 15.6-inch Full HD
+Processor: Intel Core i5
+RAM: 16 GB
+Storage: 512 GB SSD
+Battery Life: Up to 8 hours
+Weight: 1.6 kg
+Operating System: Windows 11
+USP: Lightweight design with fast performance for everyday use
+
+Constraints and Rules :
+
+* Be easy to remember and suitable for a broad audience.
+
+* Avoid complex or technical terms.
+
+Positive Instructions: 
+
+* Product description should highlight the USP of the product in the first 2-3 sentences.
+
+* Focus on factual product benefits and clear feature descriptions.
+
+Negative Instructions:
+
+* Do not make unrealistic claims.
+
+#### LLM Output for High Temperature
+Meet the Lenovo IdeaPad Slim 3, a laptop designed to keep up with your everyday life without weighing you down. Its lightweight 1.6 kg design and fast performance make it an ideal companion for work, study, entertainment, and everything in between. Whether you're moving between meetings, classes, or your favorite café, this laptop is built for convenience and reliability.
+
+The 15.6-inch Full HD display delivers clear and vibrant visuals, while the Intel Core i5 processor, 16 GB RAM, and 512 GB SSD provide smooth multitasking and quick access to your files and applications. With up to 8 hours of battery life, you can stay productive for longer without constantly searching for a charger. Running on Windows 11, the Lenovo IdeaPad Slim 3 offers a modern and user-friendly experience, making everyday computing simple, efficient, and enjoyable.
+
+
 <h2>Impact of Temperature on LLM Output</h2>
 
 <table border="1">
