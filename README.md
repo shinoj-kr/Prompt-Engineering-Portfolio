@@ -1644,13 +1644,6 @@ Review:
 Sentiment:
 Neutral
 
-Example 4
-
-Review:
-"It works fine, but not value for money"
-
-Sentiment:
-Negative
 
 Now classify the following reviews:
 
@@ -1667,8 +1660,20 @@ Now classify the following reviews:
 | 1. "The product arrived damaged and customer service was unhelpful." | **Negative** |
 | 2. "Works as expected, nothing special but does the job."            | **Neutral**  |
 | 3. "Absolutely love this! Best purchase I've made all year!"         | **Positive** |
-| 4. "The quality is okay but slightly overpriced for what you get."   | **Negative** |
+| 4. "The quality is okay but slightly overpriced for what you get."   | **Neutral**  |
 | 5. "Terrible experience, would not recommend to anyone."             | **Negative** |
+
+### Step 3: Analysis
+### Comparison Table:
+| Review # | Zero-Shot Result | Few-Shot Result | Correct Label | Improved? |
+| -------- | ---------------- | --------------- | ------------- | --------- |
+| 1        | Negative         | Negative        | Negative      | No        |
+| 2        | Neutral          | Neutral         | Neutral       | No        |
+| 3        | Positive         | Positive        | Positive      | No        |
+| 4        | Neutral          | Neutral         | Neutral       | No        |
+| 5        | Negative         | Negative        | Negative      | No        |
+
+
 
 
 ## Part 4: Responsible AI & Limitations
