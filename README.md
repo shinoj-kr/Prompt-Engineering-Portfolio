@@ -1555,28 +1555,28 @@ and 10% more sales people, how many total employees will there be after hiring?
 Solve the above problem step by step
 
 #### LLM Output With Chain-of-Thought
-### Step 1: Find the number of employees in each department
+#### Step 1: Find the number of employees in each department
 
 * Engineering = 60% of 150 = **0.60 × 150 = 90**
 * Sales = 25% of 150 = **0.25 × 150 = 37.5**
 * Operations = 150 − 90 − 37.5 = **22.5**
 
-### Step 2: Calculate new hires
+#### Step 2: Calculate new hires
 
 * Engineering hires = 20% of 90 = **0.20 × 90 = 18**
 * Sales hires = 10% of 37.5 = **0.10 × 37.5 = 3.75**
 
-### Step 3: Find the new department totals
+#### Step 3: Find the new department totals
 
 * Engineering after hiring = 90 + 18 = **108**
 * Sales after hiring = 37.5 + 3.75 = **41.25**
 * Operations remains = **22.5**
 
-### Step 4: Calculate the total employees after hiring
+#### Step 4: Calculate the total employees after hiring
 
 108 + 41.25 + 22.5 = **171.75**
 
-### Final Answer
+#### Final Answer
 
 **171.75 employees** (approximately **172 employees** if rounded to a whole number).
 
