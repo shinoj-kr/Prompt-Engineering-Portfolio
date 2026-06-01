@@ -1534,6 +1534,66 @@ For this task, medium temperature worked best because the objective was to creat
 
 ## Part 3: Strategic Prompting Techniques
 ### 3.1 Chain-of-Thought Prompting
+### Option B: Multi-Step Reasoning
+### 1. Without Chain-of-Thought: Write a prompt that asks for just the answer
+#### Prompt
+Problem: A company has 150 employees. 60% work in engineering, 25% in sales,
+and the rest in operations. If the company plans to hire 20% more engineers
+and 10% more sales people, how many total employees will there be after hiring?
+
+Give me only the final answer
+
+#### LLM Output Without Chain-of-Thought
+171.75 employees
+
+### 2. With Chain-of-Thought: Write a prompt that instructs the LLM to think step-by-step
+#### Prompt
+Problem: A company has 150 employees. 60% work in engineering, 25% in sales,
+and the rest in operations. If the company plans to hire 20% more engineers
+and 10% more sales people, how many total employees will there be after hiring?
+
+Solve the above problem step by step
+
+#### LLM Output With Chain-of-Thought
+### Step 1: Find the number of employees in each department
+
+* Engineering = 60% of 150 = **0.60 × 150 = 90**
+* Sales = 25% of 150 = **0.25 × 150 = 37.5**
+* Operations = 150 − 90 − 37.5 = **22.5**
+
+### Step 2: Calculate new hires
+
+* Engineering hires = 20% of 90 = **0.20 × 90 = 18**
+* Sales hires = 10% of 37.5 = **0.10 × 37.5 = 3.75**
+
+### Step 3: Find the new department totals
+
+* Engineering after hiring = 90 + 18 = **108**
+* Sales after hiring = 37.5 + 3.75 = **41.25**
+* Operations remains = **22.5**
+
+### Step 4: Calculate the total employees after hiring
+
+108 + 41.25 + 22.5 = **171.75**
+
+### Final Answer
+
+**171.75 employees** (approximately **172 employees** if rounded to a whole number).
+
+### 3. Comparison 
+
+### How the outputs differed
+
+The output without Chain-of-Thought provided only the final answer, which was 171.75 employees. The output with Chain-of-Thought showed each calculation step, including the number of employees in each department, the additional hires, and the final total. This made the reasoning process transparent and easier to follow. The final answer remained the same in both outputs. 
+
+### Why chain-of-thought helps with complex reasoning
+
+Chain-of-Thought helps by breaking a complex problem into smaller and more manageable steps. It allows the model to perform calculations systematically instead of jumping directly to the final answer. This reduces the chance of errors in multi-step problems involving percentages and arithmetic operations. It also helps users understand how the final answer was derived. 
+
+### One limitation you observed
+
+A limitation of Chain-of-Thought prompting is that it produces longer responses compared to direct answers. Even though the reasoning is shown step by step, the model can still make mistakes in its calculations or assumptions. The additional explanation may also be unnecessary when only the final answer is required. Therefore, Chain-of-Thought improves transparency but does not guarantee correctness. 
+
 ### 3.2 Few-Shot Prompting
 
 ## Part 4: Responsible AI & Limitations
