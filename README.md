@@ -1595,6 +1595,29 @@ Chain-of-Thought helps by breaking a complex problem into smaller and more manag
 A limitation of Chain-of-Thought prompting is that it produces longer responses compared to direct answers. Even though the reasoning is shown step by step, the model can still make mistakes in its calculations or assumptions. The additional explanation may also be unnecessary when only the final answer is required. Therefore, Chain-of-Thought improves transparency but does not guarantee correctness. 
 
 ### 3.2 Few-Shot Prompting
+### Task: Create a sentiment classifier using few-shot prompting
+### Step 1: Zero-Shot Attempt
+#### Prompt
+Classify each of the below customer reviews as Positive, Negative or Neutral.
+
+1. "The product arrived damaged and customer service was unhelpful." 
+2. "Works as expected, nothing special but does the job." 
+3, "Absolutely love this! Best purchase I've made all year!" 
+4. "The quality is okay but slightly overpriced for what you get." 
+5. "Terrible experience, would not recommend to anyone."
+
+#### LLM Classifications for Zero-Shot Attempt
+
+| Review                                                               | Sentiment    |
+| -------------------------------------------------------------------- | ------------ |
+| 1. "The product arrived damaged and customer service was unhelpful." | **Negative** |
+| 2. "Works as expected, nothing special but does the job."            | **Neutral**  |
+| 3. "Absolutely love this! Best purchase I've made all year!"         | **Positive** |
+| 4. "The quality is okay but slightly overpriced for what you get."   | **Neutral**  |
+| 5. "Terrible experience, would not recommend to anyone."             | **Negative** |
+
+
+
 
 ## Part 4: Responsible AI & Limitations
 ### 4.1 Testing for Hallucinations
