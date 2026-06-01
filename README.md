@@ -1673,7 +1673,9 @@ Now classify the following reviews:
 | 4        | Neutral          | Neutral         | Neutral       | No        |
 | 5        | Negative         | Negative        | Negative      | No        |
 
+### Write 2-3 sentences explaining when few-shot prompting is most useful
 
+Few-shot prompting is most useful when a task requires a specific format, classification style, or response pattern that may not be clear from instructions alone. By providing a few examples, the model can better understand the expected output and produce more consistent results. It is especially effective for tasks such as sentiment analysis, categorization, and structured data extraction.
 
 
 ## Part 4: Responsible AI & Limitations
