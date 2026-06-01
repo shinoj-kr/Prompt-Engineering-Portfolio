@@ -1616,6 +1616,67 @@ Classify each of the below customer reviews as Positive, Negative or Neutral.
 | 4. "The quality is okay but slightly overpriced for what you get."   | **Neutral**  |
 | 5. "Terrible experience, would not recommend to anyone."             | **Negative** |
 
+### Step 2: Few-Shot Attempt
+#### Prompt
+Classify customer reviews as Positive, Negative, or Neutral.
+
+Example 1
+
+Review:
+"This product exceeded my expectations."
+
+Sentiment:
+Positive
+
+Example 2
+
+Review:
+"Completely broke after one week."
+
+Sentiment:
+Negative
+
+Example 3
+
+Review:
+"It's fine, does what it says."
+
+Sentiment:
+Neutral
+
+Example 4
+
+Review:
+"It works fine, but not value for money"
+
+Sentiment:
+Negative
+
+Now classify the following reviews:
+
+1. "The product arrived damaged and customer service was unhelpful." 
+2. "Works as expected, nothing special but does the job." 
+3, "Absolutely love this! Best purchase I've made all year!" 
+4. "The quality is okay but slightly overpriced for what you get." 
+5. "Terrible experience, would not recommend to anyone."
+
+#### LLM Classifications for Few-Shot Attempt
+
+1. **"The product arrived damaged and customer service was unhelpful."**
+   **Sentiment:** Negative
+
+2. **"Works as expected, nothing special but does the job."**
+   **Sentiment:** Neutral
+
+3. **"Absolutely love this! Best purchase I've made all year!"**
+   **Sentiment:** Positive
+
+4. **"The quality is okay but slightly overpriced for what you get."**
+   **Sentiment:** Negative
+
+5. **"Terrible experience, would not recommend to anyone."**
+   **Sentiment:** Negative
+
 
 
 
