@@ -1662,20 +1662,18 @@ Now classify the following reviews:
 
 #### LLM Classifications for Few-Shot Attempt
 
-1. **"The product arrived damaged and customer service was unhelpful."**
-   **Sentiment:** Negative
 
-2. **"Works as expected, nothing special but does the job."**
-   **Sentiment:** Neutral
++--------------------------------------------------------------------------+-----------+
+| Review                                                                   | Sentiment |
++--------------------------------------------------------------------------+-----------+
+| 1. "The product arrived damaged and customer service was unhelpful."     | Negative  |
+| 2. "Works as expected, nothing special but does the job."                | Neutral   |
+| 3. "Absolutely love this! Best purchase I've made all year!"             | Positive  |
+| 4. "The quality is okay but slightly overpriced for what you get."       | Negative  |
+| 5. "Terrible experience, would not recommend to anyone."                 | Negative  |
++--------------------------------------------------------------------------+-----------+
 
-3. **"Absolutely love this! Best purchase I've made all year!"**
-   **Sentiment:** Positive
 
-4. **"The quality is okay but slightly overpriced for what you get."**
-   **Sentiment:** Negative
-
-5. **"Terrible experience, would not recommend to anyone."**
-   **Sentiment:** Negative
 
 
 
