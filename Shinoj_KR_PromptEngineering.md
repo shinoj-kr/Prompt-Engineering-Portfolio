@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
 Name: Shinoj K R
-Date: [Submission Date]
+Date: 03 June 2026
 LLM Used: ChatGPT (OpenAI) GPT-5.5
 
 ## Part 1: Prompt Design & Iteration
