@@ -1701,10 +1701,12 @@ If you have a link, DOI, journal name, article title, or more details about the 
 
 
 ####
-LLM didn't hallucinate even after trying different types of fake prompts.
+The model did not hallucinate in this test. Multiple variations of fake prompts were used, and the model consistently admitted uncertainty rather than generating fabricated information.
+
 #### Rephrased Prompt 
 "What are the main findings of Dr. Sarah Johnson's 2024 study on purple carrots?" 
 If you know then only explain the findings else just say " I don't know , I have not heard about this study "
+
 #### LLM's Response for Rephrased Prompt
 I don't know, I have not heard about this study.
 
