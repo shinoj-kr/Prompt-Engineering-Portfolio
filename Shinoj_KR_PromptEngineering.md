@@ -9,7 +9,7 @@ LLM Used: ChatGPT (OpenAI) GPT-5.5
 ### 1.1 Scenario A: Technical Explanation
 #### Technical Concept : Blockchain
 
-#### Initial Prompt:
+#### Initial Prompt: V1
 Role Assignment : You are Andreas Antonopoulos, a world-renowned blockchain educator
 
 Context Setting : Explain all important blockchain concepts starting from its origin.
@@ -22,7 +22,7 @@ Output Format : Narrative with examples.
 
 Tone : Soft
 
-#### Refined Prompt: 1
+#### Refined Prompt: V2
 Role Assignment : You are Andreas Antonopoulos, a world-renowned blockchain educator
 
 Context Setting : Explain all important blockchain concepts starting from its origin.
@@ -41,7 +41,7 @@ Positive Instructions : All the concepts should be arranged in such a way that i
 
 Negative Instructions : Concepts should not be arranged chapter wise like in school.
 
-#### Refined Prompt: 2
+#### Refined Prompt: V3
 Role Assignment:
 You are Andreas Antonopoulos, a world-renowned blockchain educator and storyteller.
 
@@ -120,7 +120,7 @@ Negative Instructions:
 * Do NOT skip any of the listed blockchain concepts.
 * Do NOT mention that you are teaching or explaining blockchain.
 
-#### LLM Output to the Refined Prompt 2
+#### LLM Output to the Refined Prompt V3
 Once upon a time, in the sparkling Kingdom of Lumaria, people loved trading wonderful things. Bakers traded sweet moon-cakes, farmers traded golden apples, and toy makers traded magical spinning tops. Every trade was written down in the Grand Record Book kept inside the castle.
 
 At first, everyone trusted the book. But as the kingdom grew larger, problems began. One day a baker said, “I gave ten moon-cakes to the farmer!” The farmer replied, “No, it was only five!” Sometimes pages disappeared. Sometimes sneaky people secretly changed numbers at night. Soon, nobody was completely sure which records were true.
@@ -215,7 +215,7 @@ Moral: When many honest helpers work together and protect the truth, trust becom
 
 
 ### 1.1 Scenario B: Professional Email
-#### Initial Prompt :
+#### Initial Prompt : V1
 Role Assignment: You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette
 
 Context Setting : Draft an email declining a job offer politely while expressing continued interest in the company.
@@ -228,7 +228,7 @@ Output Format : Email
 
 Tone : Professional
 
-#### Refined Prompt: 1
+#### Refined Prompt: V2
 Role Assignment:
 You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette.
 
@@ -247,7 +247,7 @@ Email
 Tone:
 Professional, Courteous, and Positive
 
-#### Refined Prompt: 2
+#### Refined Prompt: V3
 Role Assignment:
 You are a Professional Business Communication Expert specializing in corporate email writing and workplace etiquette.
 
@@ -283,7 +283,7 @@ Negative Instructions:
 * Do not burn bridges or imply dissatisfaction with the company.
 * Do not use informal language, slang, or emojis.
 
-#### LLM Output to the Refined Prompt: 2
+#### LLM Output to the Refined Prompt: V3
 Dear Hiring Manager,
 
 I hope you are doing well.
@@ -298,7 +298,7 @@ Kind regards,
 [Your Name]
 
 ### 1.1 Scenario C: Creative Content
-#### Initial Prompt:
+#### Initial Prompt: V1
 Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
 
 Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
@@ -311,7 +311,7 @@ Output Format : Sentence
 
 Tone : Exciting
 
-#### Refined Prompt: 1
+#### Refined Prompt: V2
 Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
 
 Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
@@ -328,7 +328,7 @@ Length Constraints : 6-8 words.
 
 High Creativity : Create an original, memorable, and emotionally engaging tagline that highlights sustainability and encourages consumers to choose an eco-friendly lifestyle.
 
-#### Refined Prompt: 2
+#### Refined Prompt: V3
 Role Assignment: You are a Senior Marketing Copywriter specializing in sustainable and eco-friendly consumer brands.
 
 Context Setting : Generate a creative marketing tagline for a new eco-friendly water bottle brand
@@ -370,7 +370,7 @@ Negative Instructions:
 
 * Do not make unrealistic environmental claims.
 
-#### LLM Output to the Refined Prompt: 2
+#### LLM Output to the Refined Prompt: V3
 
 Flow Pure. Live Green. Choose Tomorrow.
 
